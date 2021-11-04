@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "app_icons/favicon-96x96-seochecker-manifest-004.png"
   },
   {
-    "revision": "95e0d706a518165c894b",
+    "revision": "160106804f4acad04467",
     "url": "css/app.20000b9b.css"
   },
   {
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/reviews.11f06395.png"
   },
   {
-    "revision": "c6836906cb3ea8dd5d6110a94fd431a1",
+    "revision": "b4e98a8a041216d3c99a026c1ac92130",
     "url": "index.html"
   },
   {
-    "revision": "95e0d706a518165c894b",
-    "url": "js/app.cf557826.js"
+    "revision": "160106804f4acad04467",
+    "url": "js/app.3e0b0b8d.js"
   },
   {
     "revision": "f717dbd57d9995d9c92c",
